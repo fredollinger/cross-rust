@@ -1,0 +1,7 @@
+# Cross Rust # 
+
+This is not really any code which needs to be cross compiled, it can work natively as well.
+
+Just documenting the process as found here:
+
+https://robotsfuckyeahalloneword.svbtle.com/crosscompiling-to-aarch64
